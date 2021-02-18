@@ -24,7 +24,7 @@ for i in range(0,6):
     elements.append(i)
 
 print(">>>> elements: ", repr(elements))
-print(">>>> after loop i= ", i)
+print(">>>> after loop i= ", i)    
 
 # make a copy of the elements
 copyOfElements = elements[:]
